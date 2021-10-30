@@ -1,0 +1,615 @@
+[?1049h[1;24r(B[m[4l[?7h[39;49m[39;49m[37m[40m[H[2J(0[0m[39;49m[37m[40mlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m OS: Ubuntu 16.04.6 LTS[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m Kernel: 4.15.0-1080-gcp[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m CPU:    [34m[40m0%||||||||[43X[4;64H14.3/100%[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m Memory: [34m[40m0%|||||||||||||||||||||||||||||||||[18X[5;64H64.5/100%[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m Total Processes: 35706[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m Running Processes: 3[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m Up Time: 02:07:10[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mmqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj(B[39;49m[37m[40m[8;20H(0[0m[39;49m[37m[40m(B[39;49m[37m[40mHertz : 100
+Up time : 7630
+Utime : 4
+Stime : 1
+cutime : 471
+cstime : 158
+start time : 4214
+usage : 0.0835545
+Hertz : 100
+Up time : 7630
+Utime : 0
+Stime : 1
+cutime : 3
+cstime : 3
+start time : 4266
+usage : 0.00092259
+Hertz : 100
+Up time : 7630
+Utime : 22
+Stime : 61
+cutime : 34
+cstime : 26
+start time : 4280
+usage : 0.0188475
+Hertz : 100
+Up time : 7630
+Utime : 38
+Stime : 6
+cutime : 0
+cstime : 0
+start time : 4280
+usage : 0.00579924
+Hertz : 100
+Up time : 7630
+Utime : 12184
+Stime : 3982
+cutime : 2
+cstime : 0
+start time : 4315
+usage : 2.13106
+Hertz : 100
+Up time : 7630
+Utime : 0
+Stime : 0
+cutime : 0
+cstime : 0
+start time : 4378
+usage : 0
+Hertz : 100
+Up time : 7630
+Utime : 157
+Stime : 27
+cutime : 0
+cstime : 0
+start time : 4379
+usage : 0.0242545
+Hertz : 100
+Up time : 7630
+Utime : 0
+Stime : 3
+cutime : 216
+cstime : 81
+start time : 4417
+usage : 0.0395474
+Hertz : 100
+Up time : 7630
+Utime : 0
+Stime : 0
+cutime : 1
+cstime : 0
+start time : 4417
+usage : 0.000131825
+Hertz : 100
+Up time : 7630
+Utime : 26
+Stime : 26
+cutime : 8
+cstime : 3
+start time : 4420
+usage : 0.00830499
+
+
+(0[0m[39;49m[37m[40mlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m [32m[40mPID(B[m[39;49m[37m[40m    [32m[40mUSER(B[m[39;49m[37m[40m   [32m[40mCPU[%](B[m[39;49m[37m[40m    [32m[40mRAM[MB](B[m[39;49m[37m[40m  [32m[40mTIME+[47GCOMMAND[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 1[10Groot   8.35[27G45[36G00:00:42   /bin/sh[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 7[10Groot   0.09[27G180[36G00:00:42   /bin/bash[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 8[10Groot   1.88[27G1317     00:00:42   ./goproxy[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 9[10Groot   0.57[27G11792    00:00:42   node[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 30     root   213.[27G2824     00:00:43   /opt/TurboVNC/bin/Xvnc[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 41     root   0.00[27G45[36G00:00:43   sh[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 42     root   2.42[27G10944    00:00:43   node[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 52     root   3.95[27G180[36G00:00:44   /bin/bash[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 53     root   0.01[27G180[36G00:00:44   bash[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 58     root   0.83[27G4162     00:00:44   /usr/bin/lxsession[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mmqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj(B[39;49m[37m[40m[21;65H(0[0m[39;49m[37m[40m(B[39;49m[37m[40m[39;49m[37m[40m[H[2J(0[0m[39;49m[37m[40mlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m OS: Ubuntu 16.04.6 LTS[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m Kernel: 4.15.0-1080-gcp[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m CPU:    [34m[40m0%|||||||||||[40X[4;64H21.6/100%[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m Memory: [34m[40m0%|||||||||||||||||||||||||||||||||[18X[5;64H64.5/100%[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m Total Processes: 35706[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m Running Processes: 1[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m Up Time: 02:07:11[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mmqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj(B[39;49m[37m[40m[8;20H(0[0m[39;49m[37m[40m(B[39;49m[37m[40mHertz : 100
+Up time : 7631
+Utime : 4
+Stime : 1
+cutime : 471
+cstime : 158
+start time : 4214
+usage : 0.0835435
+Hertz : 100
+Up time : 7631
+Utime : 0
+Stime : 1
+cutime : 3
+cstime : 3
+start time : 4266
+usage : 0.000922468
+Hertz : 100
+Up time : 7631
+Utime : 22
+Stime : 61
+cutime : 34
+cstime : 26
+start time : 4280
+usage : 0.018845
+Hertz : 100
+Up time : 7631
+Utime : 38
+Stime : 6
+cutime : 0
+cstime : 0
+start time : 4280
+usage : 0.00579848
+Hertz : 100
+Up time : 7631
+Utime : 12191
+Stime : 3984
+cutime : 2
+cstime : 0
+start time : 4315
+usage : 2.13196
+Hertz : 100
+Up time : 7631
+Utime : 0
+Stime : 0
+cutime : 0
+cstime : 0
+start time : 4378
+usage : 0
+Hertz : 100
+Up time : 7631
+Utime : 157
+Stime : 27
+cutime : 0
+cstime : 0
+start time : 4379
+usage : 0.0242513
+Hertz : 100
+Up time : 7631
+Utime : 0
+Stime : 3
+cutime : 216
+cstime : 81
+start time : 4417
+usage : 0.0395422
+Hertz : 100
+Up time : 7631
+Utime : 0
+Stime : 0
+cutime : 1
+cstime : 0
+start time : 4417
+usage : 0.000131807
+Hertz : 100
+Up time : 7631
+Utime : 26
+Stime : 26
+cutime : 8
+cstime : 3
+start time : 4420
+usage : 0.0083039
+
+
+(0[0m[39;49m[37m[40mlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m [32m[40mPID(B[m[39;49m[37m[40m    [32m[40mUSER(B[m[39;49m[37m[40m   [32m[40mCPU[%](B[m[39;49m[37m[40m    [32m[40mRAM[MB](B[m[39;49m[37m[40m  [32m[40mTIME+[47GCOMMAND[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 1[10Groot   8.35[27G45[36G00:00:42   /bin/sh[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 7[10Groot   0.09[27G180[36G00:00:42   /bin/bash[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 8[10Groot   1.88[27G1317     00:00:42   ./goproxy[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 9[10Groot   0.57[27G11792    00:00:42   node[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 30     root   213.[27G2824     00:00:43   /opt/TurboVNC/bin/Xvnc[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 41     root   0.00[27G45[36G00:00:43   sh[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 42     root   2.42[27G10944    00:00:43   node[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 52     root   3.95[27G180[36G00:00:44   /bin/bash[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 53     root   0.01[27G180[36G00:00:44   bash[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m 58     root   0.83[27G4162     00:00:44   /usr/bin/lxsession[79G(0[0m[39;49m[37m[40mx(B[39;49m[37m[40m
+(0[0m[39;49m[37m[40mmqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj(B[39;49m[37m[40m[21;65H(0[0m[39;49m[37m[40m(B[39;49m[37m[40m[H[4;23H[34m[40m [4;64H18.0[6;24H(B[m[39;49m[37m[40m7
+2
+2Hertz : 100
+Up time : 7632
+Utime : 4
+Stime : 1
+cutime : 471
+cstime : 158
+start time : 4214
+usage : 0.0835325
+Hertz : 100
+Up time : 7632
+Utime : 0
+Stime : 1
+cutime : 3
+cstime : 3
+start time : 4266
+usage : 0.000922346
+Hertz : 100
+Up time : 7632
+Utime : 22
+Stime : 61
+cutime : 34
+cstime : 26
+start time : 4280
+usage : 0.0188426
+Hertz : 100
+Up time : 7632
+Utime : 38
+Stime : 6
+cutime : 0
+cstime : 0
+start time : 4280
+usage : 0.00579771
+Hertz : 100
+Up time : 7632
+Utime : 12198
+Stime : 3987
+cutime : 2
+cstime : 0
+start time : 4315
+usage : 2.133
+Hertz : 100
+Up time : 7632
+Utime : 0
+Stime : 0
+cutime : 0
+cstime : 0
+start time : 4378
+usage : 0
+Hertz : 100
+Up time : 7632
+Utime : 157
+Stime : 27
+cutime : 0
+cstime : 0
+start time : 4379
+usage : 0.0242481
+Hertz : 100
+Up time : 7632
+Utime : 0
+Stime : 3
+cutime : 216
+cstime : 81
+start time : 4417
+usage : 0.039537
+Hertz : 100
+Up time : 7632
+Utime : 0
+Stime : 0
+cutime : 1
+cstime : 0
+start time : 4417
+usage : 0.00013179
+Hertz : 100
+Up time : 7632
+Utime : 26
+Stime : 26
+cutime : 8
+cstime : 3
+start time : 4420
+usage : 0.0083028
+[21;65H[H[4;23H[34m[40m||||||||[4;64H34.1[6;23H(B[m[39;49m[37m[40m15
+1
+3Hertz : 100
+Up time : 7633
+Utime : 4
+Stime : 1
+cutime : 471
+cstime : 158
+start time : 4214
+usage : 0.0835215
+Hertz : 100
+Up time : 7633
+Utime : 0
+Stime : 1
+cutime : 3
+cstime : 3
+start time : 4266
+usage : 0.000922225
+Hertz : 100
+Up time : 7633
+Utime : 22
+Stime : 61
+cutime : 34
+cstime : 26
+start time : 4280
+usage : 0.0188401
+Hertz : 100
+Up time : 7633
+Utime : 38
+Stime : 6
+cutime : 0
+cstime : 0
+start time : 4280
+usage : 0.00579695
+Hertz : 100
+Up time : 7633
+Utime : 12207
+Stime : 3990
+cutime : 2
+cstime : 0
+start time : 4315
+usage : 2.1343
+Hertz : 100
+Up time : 7633
+Utime : 0
+Stime : 0
+cutime : 0
+cstime : 0
+start time : 4378
+usage : 0
+Hertz : 100
+Up time : 7633
+Utime : 157
+Stime : 27
+cutime : 0
+cstime : 0
+start time : 4379
+usage : 0.0242449
+Hertz : 100
+Up time : 7633
+Utime : 0
+Stime : 3
+cutime : 216
+cstime : 81
+start time : 4417
+usage : 0.0395318
+Hertz : 100
+Up time : 7633
+Utime : 0
+Stime : 0
+cutime : 1
+cstime : 0
+start time : 4417
+usage : 0.000131773
+Hertz : 100
+Up time : 7633
+Utime : 26
+Stime : 26
+cutime : 8
+cstime : 3
+start time : 4420
+usage : 0.00830171
+[21;65H[H[4;25H[34m[40m      [4;64H22[6;24H(B[m[39;49m[37m[40m7[8;19H4Hertz : 100
+Up time : 7634
+Utime : 4
+Stime : 1
+cutime : 471
+cstime : 158
+start time : 4214
+usage : 0.0835105
+Hertz : 100
+Up time : 7634
+Utime : 0
+Stime : 1
+cutime : 3
+cstime : 3
+start time : 4266
+usage : 0.000922103
+Hertz : 100
+Up time : 7634
+Utime : 22
+Stime : 61
+cutime : 34
+cstime : 26
+start time : 4280
+usage : 0.0188376
+Hertz : 100
+Up time : 7634
+Utime : 38
+Stime : 6
+cutime : 0
+cstime : 0
+start time : 4280
+usage : 0.00579618
+Hertz : 100
+Up time : 7634
+Utime : 12215
+Stime : 3992
+cutime : 2
+cstime : 0
+start time : 4315
+usage : 2.13533
+Hertz : 100
+Up time : 7634
+Utime : 0
+Stime : 0
+cutime : 0
+cstime : 0
+start time : 4378
+usage : 0
+Hertz : 100
+Up time : 7634
+Utime : 157
+Stime : 27
+cutime : 0
+cstime : 0
+start time : 4379
+usage : 0.0242418
+Hertz : 100
+Up time : 7634
+Utime : 0
+Stime : 3
+cutime : 216
+cstime : 81
+start time : 4417
+usage : 0.0395266
+Hertz : 100
+Up time : 7634
+Utime : 0
+Stime : 0
+cutime : 1
+cstime : 0
+start time : 4417
+usage : 0.000131755
+Hertz : 100
+Up time : 7634
+Utime : 26
+Stime : 26
+cutime : 8
+cstime : 3
+start time : 4420
+usage : 0.00830061
+[21;65H[H[4;22H[34m[40m   [4;64H16.5[8;19H(B[m[39;49m[37m[40m5Hertz : 100
+Up time : 7635
+Utime : 4
+Stime : 1
+cutime : 471
+cstime : 158
+start time : 4214
+usage : 0.0834995
+Hertz : 100
+Up time : 7635
+Utime : 0
+Stime : 1
+cutime : 3
+cstime : 3
+start time : 4266
+usage : 0.000921982
+Hertz : 100
+Up time : 7635
+Utime : 22
+Stime : 61
+cutime : 34
+cstime : 26
+start time : 4280
+usage : 0.0188351
+Hertz : 100
+Up time : 7635
+Utime : 38
+Stime : 6
+cutime : 0
+cstime : 0
+start time : 4280
+usage : 0.00579542
+Hertz : 100
+Up time : 7635
+Utime : 12222
+Stime : 3995
+cutime : 2
+cstime : 0
+start time : 4315
+usage : 2.13637
+Hertz : 100
+Up time : 7635
+Utime : 0
+Stime : 0
+cutime : 0
+cstime : 0
+start time : 4378
+usage : 0
+Hertz : 100
+Up time : 7635
+Utime : 157
+Stime : 27
+cutime : 0
+cstime : 0
+start time : 4379
+usage : 0.0242386
+Hertz : 100
+Up time : 7635
+Utime : 0
+Stime : 3
+cutime : 216
+cstime : 81
+start time : 4417
+usage : 0.0395214
+Hertz : 100
+Up time : 7635
+Utime : 0
+Stime : 0
+cutime : 1
+cstime : 0
+start time : 4417
+usage : 0.000131738
+Hertz : 100
+Up time : 7635
+Utime : 26
+Stime : 26
+cutime : 8
+cstime : 3
+start time : 4420
+usage : 0.00829952
+
+
+
+
+4[21;20H2[21;65H[H[4;22H[34m[40m|[4;65H9.0[6;24H(B[m[39;49m[37m[40m8
+2
+6Hertz : 100
+Up time : 7636
+Utime : 4
+Stime : 1
+cutime : 471
+cstime : 158
+start time : 4214
+usage : 0.0834885
+Hertz : 100
+Up time : 7636
+Utime : 0
+Stime : 1
+cutime : 3
+cstime : 3
+start time : 4266
+usage : 0.00092186
+Hertz : 100
+Up time : 7636
+Utime : 22
+Stime : 61
+cutime : 34
+cstime : 26
+start time : 4280
+usage : 0.0188326
+Hertz : 100
+Up time : 7636
+Utime : 38
+Stime : 6
+cutime : 0
+cstime : 0
+start time : 4280
+usage : 0.00579466
+Hertz : 100
+Up time : 7636
+Utime : 12230
+Stime : 3997
+cutime : 2
+cstime : 0
+start time : 4315
+usage : 2.13741
+Hertz : 100
+Up time : 7636
+Utime : 0
+Stime : 0
+cutime : 0
+cstime : 0
+start time : 4378
+usage : 0
+Hertz : 100
+Up time : 7636
+Utime : 157
+Stime : 27
+cutime : 0
+cstime : 0
+start time : 4379
+usage : 0.0242354
+Hertz : 100
+Up time : 7636
+Utime : 0
+Stime : 3
+cutime : 216
+cstime : 81
+start time : 4417
+usage : 0.0395162
+Hertz : 100
+Up time : 7636
+Utime : 0
+Stime : 0
+cutime : 1
+cstime : 0
+start time : 4417
+usage : 0.000131721
+Hertz : 100
+Up time : 7636
+Utime : 26
+Stime : 26
+cutime : 8
+cstime : 3
+start time : 4420
+usage : 0.00829843
+[21;65H[H
