@@ -113,19 +113,6 @@ long LinuxParser::UpTime() {
   return 0;
 }
 
-// TODO: Read and return the number of jiffies for the system
-long LinuxParser::Jiffies() { return 0; }
-
-// TODO: Read and return the number of active jiffies for a PID
-// REMOVE: [[maybe_unused]] once you define the function
-long LinuxParser::ActiveJiffies(int pid[[maybe_unused]]) { return 0; }
-
-// TODO: Read and return the number of active jiffies for the system
-long LinuxParser::ActiveJiffies() { return 0; }
-
-// TODO: Read and return the number of idle jiffies for the system
-long LinuxParser::IdleJiffies() { return 0; }
-
 // Done. This is used in Processor class
 vector<string> LinuxParser::CpuUtilization() { 
   string key, line, user, nice, system, idle, iowait, irq, softirq, steal, guest, guestNice;
@@ -204,7 +191,7 @@ string LinuxParser::Ram(int pid) {
       std::istringstream linestream(line);
       while (linestream >> key >> size){
         if (key == "VmSize:"){
-          int mbSize = floor(std::stoi(size) / 100);
+          int mbSize = floor(std::stoi(size) / 1000);
           return std::to_string(mbSize);
         }
       }
@@ -277,14 +264,10 @@ vector<string> LinuxParser::CpuUtilization(int pid) {
     while (std::getline(stream, line)) {
       std::istringstream linestream(line);
       while (linestream >> value) {
-        list.push_back(value);
+        list.emplace_back(value);
       }
     }
   }
   return list;
 }
 
-
-// TODO: Read and return the uptime of a process
-// REMOVE: [[maybe_unused]] once you define the function
-long LinuxParser::UpTime(int pid [[maybe_unused]]) { return 0; }

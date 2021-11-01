@@ -9,16 +9,10 @@
 
 #include "process.h"
 
-
-using std::string;
-using std::to_string;
-using std::vector;
-using std::cout;
-using std::endl;
+using namespace std;
 
 int Process::Pid() { return _pid; }
 
-// TODO: Return this process's CPU utilization
 float Process::CpuUtilization() { 
   vector<string> list = LinuxParser::CpuUtilization(_pid);
   float totalTime, seconds, Hertz;
@@ -34,7 +28,7 @@ float Process::CpuUtilization() {
   starttime = stof(list[21]);
   totalTime = utime + stime + cutime + cstime;
   seconds = uptime - (starttime / Hertz);
-  usage = 100 * ((totalTime / Hertz) / seconds);
+  usage = (totalTime / Hertz) / seconds;
   return usage; 
 }
 
@@ -44,18 +38,17 @@ string Process::Ram() { return LinuxParser::Ram(_pid); }
 
 string Process::User() { return _user; }
 
-// TODO: Return the age of this process (in seconds)
 long int Process::UpTime() {   
   vector<string> list = LinuxParser::CpuUtilization(_pid);
+  long uptime = LinuxParser::UpTime();
   float Hertz = sysconf(_SC_CLK_TCK);
   float starttime = stof(list[21]);
 
   float time = starttime / Hertz;
+  time = uptime - time;
   return (int)time;
 }
 
-// TODO: Overload the "less than" comparison operator for Process objects
-// REMOVE: [[maybe_unused]] once you define the function
 bool Process::operator<(Process const& a) const { 
     return a.usage < usage;
 }
